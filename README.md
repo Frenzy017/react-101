@@ -1,6 +1,6 @@
 # react-101
 
-General information about the React framework
+General information about the React library 
 
 ## ****React components****
 
